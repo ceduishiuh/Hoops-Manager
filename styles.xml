@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.HoopsManager" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@color/hm_bg</item>
+        <item name="android:statusBarColor">@color/hm_bg</item>
+        <item name="android:navigationBarColor">@color/hm_bg</item>
+    </style>
+</resources>
